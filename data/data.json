@@ -1,0 +1,36 @@
+
+    {
+      "name": "Baby hands candles",
+      "price": "$15.00",
+      "description": "If you can get over the natural aversion to lighting a couple of eerily-lifelike baby hands on fire, you're in for a treat with these handmade, pure beeswax candles.",
+      "features": "Easy to light, environment friendly, handmade, pure wax.",
+      "image": "candles.jpg"
+    },
+    {
+      "name": "Gardening claws",
+      "price": "$9.49",
+      "description": "Now you can garden like the wild beast you are. Just be sure not to fall into any wild animal traps you may have set back when you were a poor, claw-less human.",
+      "features": "helps in gardening and cleaning",
+      "image": "gloves.jpg"
+    },
+    {
+      "name": "A hand squirrel",
+      "price": "$6.50",
+      "description": "While it's all well and good to have a variety of puppets at your disposal, few things rival this strangely-realistic hand squirrel",
+      "features": "this is a playable toy and totaly for kids",
+      "image": "hand.jpg"
+    },
+    {
+      "name": "An angry Juliette Lewis mousepad",
+      "price": "$6.50",
+      "description": "Whether you're a fan of Juliette and the Licks or just love Natural Born Killers, you can show your admiration for Juliette Lewis with this tasteful mousepad.",
+      "features": "soft and easy to clean pad",
+      "image": "pad.jpg"
+    },
+    {
+      "name": "An inflatable pool bull",
+      "price": "$34.50",
+      "description": "When you want to turn your pool party up to 11, try this inflatable bull on for size and see if you can last eight seconds",
+      "features": "for pool use",
+      "image": "bull.jpg"
+    }
