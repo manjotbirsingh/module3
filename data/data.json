@@ -1,5 +1,5 @@
 {
-	"weird-deals": [
+  "weird-deals": [
     {
       "name": "Baby hands candles",
       "price": "$15.00",
@@ -35,5 +35,5 @@
       "features": "for pool use",
       "image": "bull.jpg"
     }
-	]
-	}
+  ]
+}
